@@ -1,0 +1,31 @@
+[submodule "laba1"]
+	path = laba1
+	url = https://github.com/0rpheus-0/osisp-1.git
+[submodule "laba2"]
+	path = laba2
+	url = https://github.com/0rpheus-0/osisp-2.git
+[submodule "laba3"]
+	path = laba3
+	url = https://github.com/0rpheus-0/osisp-3.git
+[submodule "laba4"]
+	path = laba4
+	url = https://github.com/0rpheus-0/osisp-4.git
+[submodule "laba5"]
+	path = laba5
+	url = https://github.com/0rpheus-0/osisp-5.git
+[submodule "laba6"]
+	path = laba6
+	url = https://github.com/0rpheus-0/osisp-6.git
+
+[submodule "laba7-2"]
+	path = laba7-2
+	url = https://github.com/0rpheus-0/osisp-7.2.git
+[submodule "laba7-1"]
+	path = laba7-1
+	url = https://github.com/0rpheus-0/osisp-7.1.git
+[submodule "laba8"]
+	path = laba8
+	url = https://github.com/0rpheus-0/osisp-8.git
+[submodule "manager_process"]
+	path = manager_process
+	url = https://github.com/0rpheus-0/manager-process-and-threads.git
